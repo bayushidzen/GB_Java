@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-07T19:20:16.961202Z</date>
+  <millis>1678216816961</millis>
+  <nanos>202000</nanos>
+  <sequence>0</sequence>
+  <logger>com.sun.tools.javac.Main</logger>
+  <level>INFO</level>
+  <class>HW.HW1.Task1_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Включение системы!</message>
+</record>
+<record>
+  <date>2023-03-07T19:20:17.080011Z</date>
+  <millis>1678216817080</millis>
+  <nanos>11000</nanos>
+  <sequence>1</sequence>
+  <logger>com.sun.tools.javac.Main</logger>
+  <level>INFO</level>
+  <class>HW.HW1.Task1_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Вывод меню и запуск сканера!</message>
+</record>
+<record>
+  <date>2023-03-07T19:20:22.282511Z</date>
+  <millis>1678216822282</millis>
+  <nanos>511000</nanos>
+  <sequence>2</sequence>
+  <logger>com.sun.tools.javac.Main</logger>
+  <level>INFO</level>
+  <class>HW.HW1.Task1_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запуск выбранного арифметического действия!</message>
+</record>
+<record>
+  <date>2023-03-07T19:20:22.297107Z</date>
+  <millis>1678216822297</millis>
+  <nanos>107000</nanos>
+  <sequence>3</sequence>
+  <logger>com.sun.tools.javac.Main</logger>
+  <level>INFO</level>
+  <class>HW.HW1.Task1_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Спасибо за использование нашего калькулятора! Приходите еще!</message>
+</record>
+</log>

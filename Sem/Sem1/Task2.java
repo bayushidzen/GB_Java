@@ -7,11 +7,11 @@ import java.util.Random;
 
 public class Task2 {
     public static void main(String[] args) {
-        int rand_num = new Random().nextInt(99 + 1);
+        int rand_num = new Random().nextInt(100);
         System.out.printf("Создаем массив длиной: %s \n", rand_num);
         int[] arr = new int[rand_num];
         for (int i = 0; i < rand_num; i++){
-        arr[i] = new java.util.Random().nextInt(1+1);
+        arr[i] = new java.util.Random().nextInt(2);
         } 
         String arr_str = Arrays.toString(arr);
         System.out.println(arr_str); 
