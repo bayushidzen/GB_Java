@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 
-public class Calculator {
+public class Task4_3 {
     private static Scanner scanner;
     private static Logger logger;
     private static LinkedList<Double> resalts = new LinkedList<>();
